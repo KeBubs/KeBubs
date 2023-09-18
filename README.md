@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-My names Kieran! I'm relatively new to coding. I started learning some Python bsack in February and it took off from there!
+My names Kieran! I'm relatively new to coding. I started learning some Python back in February and it took off from there!
+Since February, I have completed multiple Certifications in Python (which can be seen attached to my LinkedIn profile: www.linkedin.com/in/kieran-busby-7b519b12a) which led my interest further into code, eventually leading to applying for a position at School of Code (SoC), also off of a referral from a good friend and co-worker. 
 
-Im starting a new journey with the School of Code! I'll be documenting my work here. See you soon 😎
+I've now started my journey with School of Code and I'll be documenting my work here. 😎
 
-Sunday 10th September: Reflections on the first week of SoC BootCamp:
-The week started un understaing how to solve problems by utilising Computational Thinking, understanding this method has helped me as i progressed through the week when i was introduced to GitHub and Git. 
-Reflections: Using Git, multiple flags and commands are required. The basics are:
-- Git add (essentially selecting which file you are wanting to send over to GitHub)
-- Git commit -m . : commit is effectively taking a snapshot of the work completed so far, followed by a message describing the changes you have made.
-- git push : this is where the files are then shared back to the remote location, so others can access it.
+Over the next coming ~16 weeks, i'll be attaching some of my projects onto my page and documenting my progress with the SoC as a way to monitor my progression, any feedback along the way is much appreciated!
 
-During the week, we also looked at using flow diagrams to strategise amongst a team as well as using the "Agile" methodology to plan and execute the flow diagram in the form of sprints, meetings etc. 
+Week 1: Introduction to Git and GitHub 🤯, Computational Thinking, When to use AI, Flow Diagrams, Agile Methodology and much more.
+The basics of Git control are somewhat sussed out now, using git add, clone, merge, changing branches, however still a lot to cover. I've download the e-book copy of Pro Git, the second edition created by the founders of Git. You can find it here - https://books.apple.com/gb/book/pro-git/id949361544.
+AI has also proved a useful tool for de-bugging, structuring code and also finding ways to make my code more efficient/cleaner!
+A useful tool which can be found online as well as an extension in VS Code - drawio. Where you can add your flow diagram straight into a repo!
 
-Final part of the week was taking our flow diagram and putting into practice what we had learnt in the week to make a MVP (Minimum Viable Product) in the form of an escape room. 
+Week 2: Introduction to JavaScript 👨🏻‍💻
+With somewhat a previous understanding of Python from earlier completed courses on Coursera.org; some of the syntax and code felt very similar when starting JavaScript. Though I need to get used to adding ';' to the end of my lines...
+Using JavaScript in workshops led to creating a very basic, Rock Paper Scissor Game with my two SoC partners Andy and Alexandra.
+
