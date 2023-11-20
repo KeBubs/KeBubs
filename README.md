@@ -1,3 +1,5 @@
+![Static Badge](https://www.codewars.com/users/KeBubs/badges/small)
+
 ### Hi there 👋
 
 My names Kieran! I'm relatively new to coding. I started learning some Python back in February and it took off from there!
