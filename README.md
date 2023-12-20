@@ -9,11 +9,18 @@ During September 2023 - December 2023; I underwent a 16 week remote web developm
 
 Outside of the coding world, I play video games on my gaming PC which I built not too long ago, coach an 11 a-side football teamm as well as sometimes play & cook HelloFresh meals with my 4 year old daughter!
 
-My GitHub will mostly be personal projects, to try and make some nuances of day to day life that little bit easier, such as my current project which helps me personally; randomising a football club into evenly distributed teams, but considering players positions and influence in games, in order to make the teams fairer. 
+My GitHub will mostly be personal projects, to try and make some nuances of day to day life that little bit easier, such as my current project which helps me personally; randomising a football club into evenly distributed teams, but considering players positions and influence in games, in order to make the teams fairer.
 
-              **Tech Stack, inlcuding but not limited to**
+My coding journey is ever changing, I love learning new frameworks and technologies, putting them into practice in my own projects to refine my skillset 🙂
+
+                                                        **Tech Stack, inlcuding but not limited to**
+Languages:
+- JavaScript, Python, HTML, CSS, SQL.
+
 Front End:
-- Next.js, React, HTML, CSS, JavaScript
+- Next.js, React.
 
 Back End:
-- Node, Express, REST, postgreSQL, Playwright, Jest, Python.
+- Node, Express, REST, postgreSQL, Playwright, Jest.
+
+
