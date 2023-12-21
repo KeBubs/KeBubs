@@ -17,7 +17,7 @@ My GitHub will mostly be personal projects, to try and make some nuances of day 
 
 My coding journey is ever changing, I love learning new frameworks and technologies, putting them into practice in my own projects to refine my skillset 🙂
 
-**Tech Stack, inlcuding but not limited to**
+**Tech Stack, inlcuding but not limited to**<br>
 Languages:
 - JavaScript, Python, HTML, CSS, SQL.
 
